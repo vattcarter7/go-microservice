@@ -23,3 +23,5 @@ go.work
 # MacOS
 .DS_Store
 
+# postgres data
+/project/db-data/postgres/*
