@@ -11,6 +11,7 @@
 # Test binary, built with `go test -c`
 *.test
 
+# 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
@@ -25,3 +26,10 @@ go.work
 
 # postgres data
 /project/db-data/*
+
+# built binary files
+/front-end/frontApp
+/broker-service/brokerApp
+/authentication-service/authApp
+/logger-service/loggerServiceApp
+/mail-service/mailerApp
