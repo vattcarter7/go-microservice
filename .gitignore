@@ -24,4 +24,4 @@ go.work
 .DS_Store
 
 # postgres data
-/project/db-data/postgres/*
+/project/db-data/*
