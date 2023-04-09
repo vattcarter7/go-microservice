@@ -33,3 +33,4 @@ go.work
 /authentication-service/authApp
 /logger-service/loggerServiceApp
 /mail-service/mailerApp
+/listener-service/listenerApp
